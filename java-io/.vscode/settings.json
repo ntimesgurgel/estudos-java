@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/nathan/Github/estudos/alura/java-curso-intro/bytebank-herdado-conta/bytebank-herdado-conta.jar"
+    ]
+}
